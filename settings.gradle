@@ -1,0 +1,7 @@
+include ':error'
+include ':base'
+include ':shoppingcar'
+include ':order'
+include ':personal'
+include ':app'
+rootProject.name = "Ali_Arouter_Demo"
